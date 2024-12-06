@@ -7,7 +7,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5b1d5098-74d7-428e-8069-7707f75bf57c" name="Changes" comment="" />
+    <list default="true" id="5b1d5098-74d7-428e-8069-7707f75bf57c" name="Changes" comment="Blob Demo">
+      <change beforePath="$PROJECT_DIR$/BlobDemo/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/BlobDemo/Program.cs" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -16,6 +18,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "anandneema14"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/anandneema14/BlobDemo.git",
+    "accountId": "f6460186-5586-4ffe-a668-34d9f555446f"
+  }
+}]]></component>
   <component name="MetaFilesCheckinStateConfiguration" checkMetaFiles="true" />
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 0
@@ -67,8 +81,17 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1733476422270</updated>
-      <workItem from="1733476423554" duration="3445000" />
+      <workItem from="1733476423554" duration="3829000" />
     </task>
+    <task id="LOCAL-00001" summary="Blob Demo">
+      <option name="closed" value="true" />
+      <created>1733480910671</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1733480910671</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -78,5 +101,7 @@
   <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+    <MESSAGE value="Blob Demo" />
+    <option name="LAST_COMMIT_MESSAGE" value="Blob Demo" />
   </component>
 </project>
