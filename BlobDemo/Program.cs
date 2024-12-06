@@ -7,13 +7,13 @@ namespace BlobDemo;
 class Program
 {
     //Use your blob service endpoint here
-    private const string blobServiceEndPoint = "";
+    private const string blobServiceEndPoint = "<BLOB SERVICE_ENDPOINT>";
 
     //Use your Storage Account Name here
-    private const string storageAccountName = "";
+    private const string storageAccountName = "<STORAGE_ACCOUNT_NAME>";
 
     //use your Storage Account Key here
-    private const string storageAccountKey = "";
+    private const string storageAccountKey = "<STORAGE_ACCOUNT_KEY>";
 
     static async Task Main(string[] args)
     {
